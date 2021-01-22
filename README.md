@@ -1,2 +1,4 @@
 # hello-world
-test repo :) 
+test repo
+
+My name is chris, I already like you ;) 
